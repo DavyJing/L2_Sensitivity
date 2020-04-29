@@ -1,0 +1,1370 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2019.5.8)  24 APR 2020 14:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**quyre3901.tex
+(./quyre3901.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex4/revtex4.cls
+Document Class: revtex4 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count80
+\@tbpen=\count81
+\@arstrutbox@hline=\box27
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count82
+\output=\toks14
+\@protection@box=\box28
+\@topmark@saved=\toks15
+\footins@saved=\box29
+\pagesofar=\box30
+\footbox=\box31
+\pagegrid@col=\count83
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count84
+\absbox=\box32
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count91
+\c@table=\count92
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count93
+)
+\widetext@top=\box33
+\widetext@bot=\box34
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex4/revsymb.sty
+Package: revsymb 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex4/aps.rtx
+File: aps.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/revtex4/10pt.rtx
+File: 10pt.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
+)
+No file quyre3901.aux.
+\openout1 = `quyre3901.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+Class revtex4 Info: Patching LaTeX tabular. on input line 5.
+Class revtex4 Info: cite was not loaded (OK!) on input line 5.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 5.
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen106
+\scratchbox=\box35
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen107
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<1/101_ct18nn_L2_q100_Sf_1.pdf, id=1, 577.15625pt x 361.35pt>
+File: 1/101_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/101_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/101_ct18nn_L2_q100_Sf_1.pdf  used on input line 12.
+(pdftex.def)             Requested size: 472.27603pt x 295.68587pt.
+<1/102_ct18nn_L2_q100_Sf_1.pdf, id=2, 577.15625pt x 366.36874pt>
+File: 1/102_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/102_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/102_ct18nn_L2_q100_Sf_1.pdf  used on input line 16.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+
+[1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<1/104_ct18nn_L2_q100_Sf_1.pdf, id=12, 577.15625pt x 366.36874pt>
+File: 1/104_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/104_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/104_ct18nn_L2_q100_Sf_1.pdf  used on input line 21.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/108_ct18nn_L2_q100_Sf_1.pdf, id=13, 577.15625pt x 366.36874pt>
+File: 1/108_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/108_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/108_ct18nn_L2_q100_Sf_1.pdf  used on input line 25.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+
+[2 <./1/101_ct18nn_L2_q100_Sf_1.pdf> <./1/102_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/102_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/109_ct18nn_L2_q100_Sf_1.pdf, id=177, 577.15625pt x 366.36874pt>
+File: 1/109_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/109_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/109_ct18nn_L2_q100_Sf_1.pdf  used on input line 30.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/110_ct18nn_L2_q100_Sf_1.pdf, id=178, 577.15625pt x 366.36874pt>
+File: 1/110_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/110_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/110_ct18nn_L2_q100_Sf_1.pdf  used on input line 34.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [3 <./1/104_ct18nn_L2_q100_Sf_1.pdf> <./1/108_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/108_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/111_ct18nn_L2_q100_Sf_1.pdf, id=342, 577.15625pt x 366.36874pt>
+File: 1/111_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/111_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/111_ct18nn_L2_q100_Sf_1.pdf  used on input line 39.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/124_ct18nn_L2_q100_Sf_1.pdf, id=343, 577.15625pt x 366.36874pt>
+File: 1/124_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/124_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/124_ct18nn_L2_q100_Sf_1.pdf  used on input line 43.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [4 <./1/109_ct18nn_L2_q100_Sf_1.pdf> <./1/110_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/110_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/125_ct18nn_L2_q100_Sf_1.pdf, id=507, 577.15625pt x 366.36874pt>
+File: 1/125_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/125_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/125_ct18nn_L2_q100_Sf_1.pdf  used on input line 48.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/126_ct18nn_L2_q100_Sf_1.pdf, id=508, 577.15625pt x 366.36874pt>
+File: 1/126_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/126_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/126_ct18nn_L2_q100_Sf_1.pdf  used on input line 52.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [5 <./1/111_ct18nn_L2_q100_Sf_1.pdf> <./1/124_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/124_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/127_ct18nn_L2_q100_Sf_1.pdf, id=672, 577.15625pt x 366.36874pt>
+File: 1/127_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/127_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/127_ct18nn_L2_q100_Sf_1.pdf  used on input line 57.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/145_ct18nn_L2_q100_Sf_1.pdf, id=673, 577.15625pt x 358.33875pt>
+File: 1/145_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/145_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/145_ct18nn_L2_q100_Sf_1.pdf  used on input line 61.
+(pdftex.def)             Requested size: 476.26546pt x 295.69873pt.
+ [6 <./1/125_ct18nn_L2_q100_Sf_1.pdf> <./1/126_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/126_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/147_ct18nn_L2_q100_Sf_1.pdf, id=837, 577.15625pt x 366.36874pt>
+File: 1/147_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/147_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/147_ct18nn_L2_q100_Sf_1.pdf  used on input line 66.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/160_ct18nn_L2_q100_Sf_1.pdf, id=838, 577.15625pt x 361.35pt>
+File: 1/160_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/160_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/160_ct18nn_L2_q100_Sf_1.pdf  used on input line 70.
+(pdftex.def)             Requested size: 472.27603pt x 295.68587pt.
+ [7 <./1/127_ct18nn_L2_q100_Sf_1.pdf> <./1/145_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/145_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/169_ct18nn_L2_q100_Sf_1.pdf, id=1003, 577.15625pt x 366.36874pt>
+File: 1/169_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/169_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/169_ct18nn_L2_q100_Sf_1.pdf  used on input line 75.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/201_ct18nn_L2_q100_Sf_1.pdf, id=1004, 577.15625pt x 366.36874pt>
+File: 1/201_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/201_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/201_ct18nn_L2_q100_Sf_1.pdf  used on input line 79.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [8 <./1/147_ct18nn_L2_q100_Sf_1.pdf> <./1/160_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/160_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/203_ct18nn_L2_q100_Sf_1.pdf, id=1168, 577.15625pt x 366.36874pt>
+File: 1/203_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/203_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/203_ct18nn_L2_q100_Sf_1.pdf  used on input line 84.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/204_ct18nn_L2_q100_Sf_1.pdf, id=1169, 577.15625pt x 361.35pt>
+File: 1/204_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/204_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/204_ct18nn_L2_q100_Sf_1.pdf  used on input line 88.
+(pdftex.def)             Requested size: 472.27603pt x 295.68587pt.
+ [9 <./1/169_ct18nn_L2_q100_Sf_1.pdf> <./1/201_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/201_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/225_ct18nn_L2_q100_Sf_1.pdf, id=1334, 577.15625pt x 358.33875pt>
+File: 1/225_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/225_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/225_ct18nn_L2_q100_Sf_1.pdf  used on input line 93.
+(pdftex.def)             Requested size: 476.26546pt x 295.69873pt.
+<1/227_ct18nn_L2_q100_Sf_1.pdf, id=1335, 577.15625pt x 366.36874pt>
+File: 1/227_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/227_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/227_ct18nn_L2_q100_Sf_1.pdf  used on input line 97.
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [10 <./1/203_ct18nn_L2_q100_Sf_1.pdf> <./1/204_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/204_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/234_ct18nn_L2_q100_Sf_1.pdf, id=1499, 577.15625pt x 366.36874pt>
+File: 1/234_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/234_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/234_ct18nn_L2_q100_Sf_1.pdf  used on input line 102.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/245_ct18nn_L2_q100_Sf_1.pdf, id=1500, 577.15625pt x 361.35pt>
+File: 1/245_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/245_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/245_ct18nn_L2_q100_Sf_1.pdf  used on input line 106.
+
+(pdftex.def)             Requested size: 472.27603pt x 295.68587pt.
+ [11 <./1/225_ct18nn_L2_q100_Sf_1.pdf> <./1/227_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/227_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/246_ct18nn_L2_q100_Sf_1.pdf, id=1664, 577.15625pt x 366.36874pt>
+File: 1/246_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/246_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/246_ct18nn_L2_q100_Sf_1.pdf  used on input line 111.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/248_ct18nn_L2_q100_Sf_1.pdf, id=1665, 577.15625pt x 361.35pt>
+File: 1/248_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/248_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/248_ct18nn_L2_q100_Sf_1.pdf  used on input line 115.
+
+(pdftex.def)             Requested size: 472.27603pt x 295.68587pt.
+ [12 <./1/234_ct18nn_L2_q100_Sf_1.pdf> <./1/245_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/245_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/249_ct18nn_L2_q100_Sf_1.pdf, id=1829, 577.15625pt x 366.36874pt>
+File: 1/249_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/249_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/249_ct18nn_L2_q100_Sf_1.pdf  used on input line 120.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/250_ct18nn_L2_q100_Sf_1.pdf, id=1830, 577.15625pt x 366.36874pt>
+File: 1/250_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/250_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/250_ct18nn_L2_q100_Sf_1.pdf  used on input line 124.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [13 <./1/246_ct18nn_L2_q100_Sf_1.pdf> <./1/248_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/248_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/253_ct18nn_L2_q100_Sf_1.pdf, id=1995, 577.15625pt x 366.36874pt>
+File: 1/253_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/253_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/253_ct18nn_L2_q100_Sf_1.pdf  used on input line 129.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/260_ct18nn_L2_q100_Sf_1.pdf, id=1996, 577.15625pt x 358.33875pt>
+File: 1/260_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/260_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/260_ct18nn_L2_q100_Sf_1.pdf  used on input line 133.
+
+(pdftex.def)             Requested size: 476.26546pt x 295.69873pt.
+ [14 <./1/249_ct18nn_L2_q100_Sf_1.pdf> <./1/250_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/250_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/261_ct18nn_L2_q100_Sf_1.pdf, id=2160, 577.15625pt x 366.36874pt>
+File: 1/261_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/261_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/261_ct18nn_L2_q100_Sf_1.pdf  used on input line 138.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/266_ct18nn_L2_q100_Sf_1.pdf, id=2161, 577.15625pt x 366.36874pt>
+File: 1/266_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/266_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/266_ct18nn_L2_q100_Sf_1.pdf  used on input line 142.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [15 <./1/253_ct18nn_L2_q100_Sf_1.pdf> <./1/260_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/260_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/267_ct18nn_L2_q100_Sf_1.pdf, id=2325, 577.15625pt x 366.36874pt>
+File: 1/267_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/267_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/267_ct18nn_L2_q100_Sf_1.pdf  used on input line 147.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/268_ct18nn_L2_q100_Sf_1.pdf, id=2326, 577.15625pt x 366.36874pt>
+File: 1/268_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/268_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/268_ct18nn_L2_q100_Sf_1.pdf  used on input line 151.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [16 <./1/261_ct18nn_L2_q100_Sf_1.pdf> <./1/266_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/266_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/281_ct18nn_L2_q100_Sf_1.pdf, id=2490, 577.15625pt x 366.36874pt>
+File: 1/281_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/281_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/281_ct18nn_L2_q100_Sf_1.pdf  used on input line 156.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/504_ct18nn_L2_q100_Sf_1.pdf, id=2491, 577.15625pt x 366.36874pt>
+File: 1/504_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/504_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/504_ct18nn_L2_q100_Sf_1.pdf  used on input line 160.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [17 <./1/267_ct18nn_L2_q100_Sf_1.pdf> <./1/268_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/268_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/514_ct18nn_L2_q100_Sf_1.pdf, id=2656, 577.15625pt x 366.36874pt>
+File: 1/514_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/514_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/514_ct18nn_L2_q100_Sf_1.pdf  used on input line 165.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/542_ct18nn_L2_q100_Sf_1.pdf, id=2657, 577.15625pt x 366.36874pt>
+File: 1/542_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/542_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/542_ct18nn_L2_q100_Sf_1.pdf  used on input line 169.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [18 <./1/281_ct18nn_L2_q100_Sf_1.pdf> <./1/504_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/504_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/544_ct18nn_L2_q100_Sf_1.pdf, id=2821, 577.15625pt x 361.35pt>
+File: 1/544_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/544_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/544_ct18nn_L2_q100_Sf_1.pdf  used on input line 174.
+
+(pdftex.def)             Requested size: 472.27603pt x 295.68587pt.
+<1/545_ct18nn_L2_q100_Sf_1.pdf, id=2822, 577.15625pt x 361.35pt>
+File: 1/545_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/545_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/545_ct18nn_L2_q100_Sf_1.pdf  used on input line 178.
+
+(pdftex.def)             Requested size: 472.27603pt x 295.68587pt.
+ [19 <./1/514_ct18nn_L2_q100_Sf_1.pdf> <./1/542_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/542_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/573_ct18nn_L2_q100_Sf_1.pdf, id=2987, 577.15625pt x 366.36874pt>
+File: 1/573_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/573_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/573_ct18nn_L2_q100_Sf_1.pdf  used on input line 183.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<1/580_ct18nn_L2_q100_Sf_1.pdf, id=2988, 577.15625pt x 366.36874pt>
+File: 1/580_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/580_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/580_ct18nn_L2_q100_Sf_1.pdf  used on input line 187.
+
+(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+ [20 <./1/544_ct18nn_L2_q100_Sf_1.pdf> <./1/545_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/545_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/ifl-1_ct18nn_L2_q100_Sf_1.pdf, id=3152, 635.37375pt x 614.295pt>
+File: 1/ifl-1_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl-1_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl-1_ct18nn_L2_q100_Sf_1.pdf  used on input line 19
+2.
+(pdftex.def)             Requested size: 305.82909pt x 295.6831pt.
+<1/ifl-1_ct18nn_L2_q2_Sf_1.pdf, id=3153, 635.37375pt x 614.295pt>
+File: 1/ifl-1_ct18nn_L2_q2_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl-1_ct18nn_L2_q2_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl-1_ct18nn_L2_q2_Sf_1.pdf  used on input line 196.
+
+(pdftex.def)             Requested size: 305.82909pt x 295.6831pt.
+ [21 <./1/573_ct18nn_L2_q100_Sf_1.pdf> <./1/580_ct18nn_L2_q100_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/580_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/ifl-2_ct18nn_L2_q100_Sf_1.pdf, id=3317, 624.3325pt x 606.265pt>
+File: 1/ifl-2_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl-2_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl-2_ct18nn_L2_q100_Sf_1.pdf  used on input line 20
+1.
+(pdftex.def)             Requested size: 304.49663pt x 295.68481pt.
+<1/ifl-2_ct18nn_L2_q2_Sf_1.pdf, id=3318, 635.37375pt x 606.265pt>
+File: 1/ifl-2_ct18nn_L2_q2_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl-2_ct18nn_L2_q2_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl-2_ct18nn_L2_q2_Sf_1.pdf  used on input line 205.
+
+(pdftex.def)             Requested size: 309.8816pt x 295.68481pt.
+ [22 <./1/ifl-1_ct18nn_L2_q100_Sf_1.pdf> <./1/ifl-1_ct18nn_L2_q2_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/ifl-1_ct18nn_L2_q2_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/ifl0_ct18nn_L2_q100_Sf_1.pdf, id=3498, 673.51625pt x 598.235pt>
+File: 1/ifl0_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl0_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl0_ct18nn_L2_q100_Sf_1.pdf  used on input line 210
+.
+(pdftex.def)             Requested size: 332.89314pt x 295.68451pt.
+<1/ifl0_ct18nn_L2_q2_Sf_1.pdf, id=3499, 673.51625pt x 598.235pt>
+File: 1/ifl0_ct18nn_L2_q2_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl0_ct18nn_L2_q2_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl0_ct18nn_L2_q2_Sf_1.pdf  used on input line 214.
+(pdftex.def)             Requested size: 332.89314pt x 295.68451pt.
+ [23 <./1/ifl-2_ct18nn_L2_q100_Sf_1.pdf> <./1/ifl-2_ct18nn_L2_q2_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/ifl-2_ct18nn_L2_q2_Sf_1.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+<1/ifl1_ct18nn_L2_q100_Sf_1.pdf, id=3680, 649.42625pt x 598.235pt>
+File: 1/ifl1_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl1_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl1_ct18nn_L2_q100_Sf_1.pdf  used on input line 219
+.
+(pdftex.def)             Requested size: 320.98637pt x 295.68451pt.
+<1/ifl1_ct18nn_L2_q2_Sf_1.pdf, id=3681, 649.42625pt x 598.235pt>
+File: 1/ifl1_ct18nn_L2_q2_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl1_ct18nn_L2_q2_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl1_ct18nn_L2_q2_Sf_1.pdf  used on input line 223.
+(pdftex.def)             Requested size: 320.98637pt x 295.68451pt.
+ [24 <./1/ifl0_ct18nn_L2_q100_Sf_1.pdf> <./1/ifl0_ct18nn_L2_q2_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/ifl0_ct18nn_L2_q2_Sf_1.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<1/ifl2_ct18nn_L2_q100_Sf_1.pdf, id=3835, 635.37375pt x 598.235pt>
+File: 1/ifl2_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl2_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl2_ct18nn_L2_q100_Sf_1.pdf  used on input line 228
+.
+(pdftex.def)             Requested size: 314.04077pt x 295.68451pt.
+<1/ifl2_ct18nn_L2_q2_Sf_1.pdf, id=3836, 635.37375pt x 598.235pt>
+File: 1/ifl2_ct18nn_L2_q2_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl2_ct18nn_L2_q2_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl2_ct18nn_L2_q2_Sf_1.pdf  used on input line 232.
+(pdftex.def)             Requested size: 314.04077pt x 295.68451pt.
+ [25 <./1/ifl1_ct18nn_L2_q100_Sf_1.pdf> <./1/ifl1_ct18nn_L2_q2_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/ifl1_ct18nn_L2_q2_Sf_1.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<1/ifl3_ct18nn_L2_q100_Sf_1.pdf, id=3991, 637.38126pt x 598.235pt>
+File: 1/ifl3_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl3_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl3_ct18nn_L2_q100_Sf_1.pdf  used on input line 237
+.
+(pdftex.def)             Requested size: 315.033pt x 295.68451pt.
+<1/ifl3_ct18nn_L2_q2_Sf_1.pdf, id=3992, 630.355pt x 608.2725pt>
+File: 1/ifl3_ct18nn_L2_q2_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl3_ct18nn_L2_q2_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl3_ct18nn_L2_q2_Sf_1.pdf  used on input line 241.
+(pdftex.def)             Requested size: 306.42395pt x 295.68936pt.
+ [26 <./1/ifl2_ct18nn_L2_q100_Sf_1.pdf> <./1/ifl2_ct18nn_L2_q2_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/ifl2_ct18nn_L2_q2_Sf_1.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<1/ifl4_ct18nn_L2_q100_Sf_1.pdf, id=4146, 673.51625pt x 598.235pt>
+File: 1/ifl4_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl4_ct18nn_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl4_ct18nn_L2_q100_Sf_1.pdf  used on input line 246
+.
+(pdftex.def)             Requested size: 332.89314pt x 295.68451pt.
+<1/ifl4_ct18nn_L2_q2_Sf_1.pdf, id=4147, 673.51625pt x 598.235pt>
+File: 1/ifl4_ct18nn_L2_q2_Sf_1.pdf Graphic file (type pdf)
+<use 1/ifl4_ct18nn_L2_q2_Sf_1.pdf>
+Package pdftex.def Info: 1/ifl4_ct18nn_L2_q2_Sf_1.pdf  used on input line 250.
+(pdftex.def)             Requested size: 332.89314pt x 295.68451pt.
+ [27 <./1/ifl3_ct18nn_L2_q100_Sf_1.pdf> <./1/ifl3_ct18nn_L2_q2_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/ifl3_ct18nn_L2_q2_Sf_1.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<2/101_ct18nn_q100_Sf_2.pdf, id=4301, 749.80125pt x 361.35pt>
+File: 2/101_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/101_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/101_ct18nn_q100_Sf_2.pdf  used on input line 255.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+<2/101_ct18nn_q2_Sf_2.pdf, id=4302, 749.80125pt x 361.35pt>
+File: 2/101_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/101_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/101_ct18nn_q2_Sf_2.pdf  used on input line 259.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+ [28 <./1/ifl4_ct18nn_L2_q100_Sf_1.pdf> <./1/ifl4_ct18nn_L2_q2_Sf_1.pdf
+
+pdfTeX warning: latex (file ./1/ifl4_ct18nn_L2_q2_Sf_1.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<2/102_ct18nn_q100_Sf_2.pdf, id=4456, 749.80125pt x 361.35pt>
+File: 2/102_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/102_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/102_ct18nn_q100_Sf_2.pdf  used on input line 264.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+<2/102_ct18nn_q2_Sf_2.pdf, id=4457, 749.80125pt x 361.35pt>
+File: 2/102_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/102_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/102_ct18nn_q2_Sf_2.pdf  used on input line 268.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+ [29 <./2/101_ct18nn_q100_Sf_2.pdf> <./2/101_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/101_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/104_ct18nn_q100_Sf_2.pdf, id=4645, 749.80125pt x 366.36874pt>
+File: 2/104_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/104_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/104_ct18nn_q100_Sf_2.pdf  used on input line 273.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/104_ct18nn_q2_Sf_2.pdf, id=4646, 749.80125pt x 366.36874pt>
+File: 2/104_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/104_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/104_ct18nn_q2_Sf_2.pdf  used on input line 277.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [30 <./2/102_ct18nn_q100_Sf_2.pdf> <./2/102_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/102_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/108_ct18nn_q100_Sf_2.pdf, id=4835, 749.80125pt x 366.36874pt>
+File: 2/108_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/108_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/108_ct18nn_q100_Sf_2.pdf  used on input line 282.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/108_ct18nn_q2_Sf_2.pdf, id=4836, 749.80125pt x 366.36874pt>
+File: 2/108_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/108_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/108_ct18nn_q2_Sf_2.pdf  used on input line 286.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [31 <./2/104_ct18nn_q100_Sf_2.pdf> <./2/104_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/104_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/109_ct18nn_q100_Sf_2.pdf, id=5025, 749.80125pt x 366.36874pt>
+File: 2/109_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/109_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/109_ct18nn_q100_Sf_2.pdf  used on input line 291.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/109_ct18nn_q2_Sf_2.pdf, id=5026, 749.80125pt x 366.36874pt>
+File: 2/109_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/109_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/109_ct18nn_q2_Sf_2.pdf  used on input line 295.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [32 <./2/108_ct18nn_q100_Sf_2.pdf> <./2/108_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/108_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/110_ct18nn_q100_Sf_2.pdf, id=5214, 749.80125pt x 366.36874pt>
+File: 2/110_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/110_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/110_ct18nn_q100_Sf_2.pdf  used on input line 300.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/110_ct18nn_q2_Sf_2.pdf, id=5215, 749.80125pt x 366.36874pt>
+File: 2/110_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/110_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/110_ct18nn_q2_Sf_2.pdf  used on input line 304.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [33 <./2/109_ct18nn_q100_Sf_2.pdf> <./2/109_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/109_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/111_ct18nn_q100_Sf_2.pdf, id=5403, 749.80125pt x 366.36874pt>
+File: 2/111_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/111_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/111_ct18nn_q100_Sf_2.pdf  used on input line 309.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/111_ct18nn_q2_Sf_2.pdf, id=5404, 749.80125pt x 366.36874pt>
+File: 2/111_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/111_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/111_ct18nn_q2_Sf_2.pdf  used on input line 313.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [34 <./2/110_ct18nn_q100_Sf_2.pdf> <./2/110_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/110_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/124_ct18nn_q100_Sf_2.pdf, id=5593, 749.80125pt x 366.36874pt>
+File: 2/124_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/124_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/124_ct18nn_q100_Sf_2.pdf  used on input line 318.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/124_ct18nn_q2_Sf_2.pdf, id=5594, 749.80125pt x 366.36874pt>
+File: 2/124_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/124_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/124_ct18nn_q2_Sf_2.pdf  used on input line 322.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [35 <./2/111_ct18nn_q100_Sf_2.pdf> <./2/111_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/111_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/125_ct18nn_q100_Sf_2.pdf, id=5782, 749.80125pt x 366.36874pt>
+File: 2/125_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/125_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/125_ct18nn_q100_Sf_2.pdf  used on input line 327.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/125_ct18nn_q2_Sf_2.pdf, id=5783, 749.80125pt x 366.36874pt>
+File: 2/125_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/125_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/125_ct18nn_q2_Sf_2.pdf  used on input line 331.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [36 <./2/124_ct18nn_q100_Sf_2.pdf> <./2/124_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/124_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/126_ct18nn_q100_Sf_2.pdf, id=5971, 749.80125pt x 366.36874pt>
+File: 2/126_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/126_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/126_ct18nn_q100_Sf_2.pdf  used on input line 336.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/126_ct18nn_q2_Sf_2.pdf, id=5972, 749.80125pt x 366.36874pt>
+File: 2/126_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/126_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/126_ct18nn_q2_Sf_2.pdf  used on input line 340.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [37 <./2/125_ct18nn_q100_Sf_2.pdf> <./2/125_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/125_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/127_ct18nn_q100_Sf_2.pdf, id=6162, 749.80125pt x 366.36874pt>
+File: 2/127_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/127_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/127_ct18nn_q100_Sf_2.pdf  used on input line 345.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/127_ct18nn_q2_Sf_2.pdf, id=6163, 749.80125pt x 366.36874pt>
+File: 2/127_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/127_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/127_ct18nn_q2_Sf_2.pdf  used on input line 349.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [38 <./2/126_ct18nn_q100_Sf_2.pdf> <./2/126_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/126_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/145_ct18nn_q100_Sf_2.pdf, id=6351, 749.80125pt x 358.33875pt>
+File: 2/145_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/145_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/145_ct18nn_q100_Sf_2.pdf  used on input line 354.
+(pdftex.def)             Requested size: 510.00684pt x 243.7382pt.
+<2/145_ct18nn_q2_Sf_2.pdf, id=6352, 749.80125pt x 358.33875pt>
+File: 2/145_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/145_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/145_ct18nn_q2_Sf_2.pdf  used on input line 358.
+(pdftex.def)             Requested size: 510.00684pt x 243.7382pt.
+ [39 <./2/127_ct18nn_q100_Sf_2.pdf> <./2/127_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/127_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/147_ct18nn_q100_Sf_2.pdf, id=6540, 749.80125pt x 366.36874pt>
+File: 2/147_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/147_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/147_ct18nn_q100_Sf_2.pdf  used on input line 363.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/147_ct18nn_q2_Sf_2.pdf, id=6541, 749.80125pt x 366.36874pt>
+File: 2/147_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/147_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/147_ct18nn_q2_Sf_2.pdf  used on input line 367.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [40 <./2/145_ct18nn_q100_Sf_2.pdf> <./2/145_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/145_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/160_ct18nn_q100_Sf_2.pdf, id=6729, 749.80125pt x 366.36874pt>
+File: 2/160_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/160_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/160_ct18nn_q100_Sf_2.pdf  used on input line 372.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/160_ct18nn_q2_Sf_2.pdf, id=6730, 749.80125pt x 366.36874pt>
+File: 2/160_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/160_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/160_ct18nn_q2_Sf_2.pdf  used on input line 376.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [41 <./2/147_ct18nn_q100_Sf_2.pdf> <./2/147_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/147_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/169_ct18nn_q100_Sf_2.pdf, id=6919, 749.80125pt x 358.33875pt>
+File: 2/169_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/169_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/169_ct18nn_q100_Sf_2.pdf  used on input line 381.
+(pdftex.def)             Requested size: 510.00684pt x 243.7382pt.
+<2/169_ct18nn_q2_Sf_2.pdf, id=6920, 749.80125pt x 366.36874pt>
+File: 2/169_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/169_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/169_ct18nn_q2_Sf_2.pdf  used on input line 385.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [42 <./2/160_ct18nn_q100_Sf_2.pdf> <./2/160_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/160_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/201_ct18nn_q100_Sf_2.pdf, id=7108, 749.80125pt x 366.36874pt>
+File: 2/201_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/201_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/201_ct18nn_q100_Sf_2.pdf  used on input line 390.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/201_ct18nn_q2_Sf_2.pdf, id=7109, 749.80125pt x 366.36874pt>
+File: 2/201_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/201_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/201_ct18nn_q2_Sf_2.pdf  used on input line 394.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [43 <./2/169_ct18nn_q100_Sf_2.pdf> <./2/169_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/169_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/203_ct18nn_q100_Sf_2.pdf, id=7298, 749.80125pt x 361.35pt>
+File: 2/203_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/203_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/203_ct18nn_q100_Sf_2.pdf  used on input line 399.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+<2/203_ct18nn_q2_Sf_2.pdf, id=7299, 749.80125pt x 361.35pt>
+File: 2/203_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/203_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/203_ct18nn_q2_Sf_2.pdf  used on input line 403.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+ [44 <./2/201_ct18nn_q100_Sf_2.pdf> <./2/201_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/201_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/204_ct18nn_q100_Sf_2.pdf, id=7488, 749.80125pt x 361.35pt>
+File: 2/204_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/204_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/204_ct18nn_q100_Sf_2.pdf  used on input line 408.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+<2/204_ct18nn_q2_Sf_2.pdf, id=7489, 749.80125pt x 361.35pt>
+File: 2/204_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/204_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/204_ct18nn_q2_Sf_2.pdf  used on input line 412.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+ [45 <./2/203_ct18nn_q100_Sf_2.pdf> <./2/203_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/203_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/225_ct18nn_q100_Sf_2.pdf, id=7677, 749.80125pt x 358.33875pt>
+File: 2/225_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/225_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/225_ct18nn_q100_Sf_2.pdf  used on input line 417.
+(pdftex.def)             Requested size: 510.00684pt x 243.7382pt.
+<2/225_ct18nn_q2_Sf_2.pdf, id=7678, 749.80125pt x 358.33875pt>
+File: 2/225_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/225_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/225_ct18nn_q2_Sf_2.pdf  used on input line 421.
+(pdftex.def)             Requested size: 510.00684pt x 243.7382pt.
+ [46 <./2/204_ct18nn_q100_Sf_2.pdf> <./2/204_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/204_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/227_ct18nn_q100_Sf_2.pdf, id=7866, 749.80125pt x 366.36874pt>
+File: 2/227_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/227_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/227_ct18nn_q100_Sf_2.pdf  used on input line 426.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/227_ct18nn_q2_Sf_2.pdf, id=7867, 749.80125pt x 366.36874pt>
+File: 2/227_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/227_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/227_ct18nn_q2_Sf_2.pdf  used on input line 430.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [47 <./2/225_ct18nn_q100_Sf_2.pdf> <./2/225_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/225_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/234_ct18nn_q100_Sf_2.pdf, id=8055, 749.80125pt x 366.36874pt>
+File: 2/234_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/234_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/234_ct18nn_q100_Sf_2.pdf  used on input line 435.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/234_ct18nn_q2_Sf_2.pdf, id=8056, 749.80125pt x 366.36874pt>
+File: 2/234_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/234_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/234_ct18nn_q2_Sf_2.pdf  used on input line 439.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [48 <./2/227_ct18nn_q100_Sf_2.pdf> <./2/227_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/227_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/245_ct18nn_q100_Sf_2.pdf, id=8245, 749.80125pt x 361.35pt>
+File: 2/245_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/245_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/245_ct18nn_q100_Sf_2.pdf  used on input line 444.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+<2/245_ct18nn_q2_Sf_2.pdf, id=8246, 749.80125pt x 361.35pt>
+File: 2/245_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/245_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/245_ct18nn_q2_Sf_2.pdf  used on input line 448.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+ [49 <./2/234_ct18nn_q100_Sf_2.pdf> <./2/234_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/234_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/246_ct18nn_q100_Sf_2.pdf, id=8435, 749.80125pt x 366.36874pt>
+File: 2/246_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/246_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/246_ct18nn_q100_Sf_2.pdf  used on input line 453.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/246_ct18nn_q2_Sf_2.pdf, id=8436, 749.80125pt x 366.36874pt>
+File: 2/246_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/246_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/246_ct18nn_q2_Sf_2.pdf  used on input line 457.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [50 <./2/245_ct18nn_q100_Sf_2.pdf> <./2/245_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/245_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/248_ct18nn_q100_Sf_2.pdf, id=8624, 749.80125pt x 366.36874pt>
+File: 2/248_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/248_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/248_ct18nn_q100_Sf_2.pdf  used on input line 462.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/248_ct18nn_q2_Sf_2.pdf, id=8625, 749.80125pt x 366.36874pt>
+File: 2/248_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/248_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/248_ct18nn_q2_Sf_2.pdf  used on input line 466.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [51 <./2/246_ct18nn_q100_Sf_2.pdf> <./2/246_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/246_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/249_ct18nn_q100_Sf_2.pdf, id=8814, 749.80125pt x 366.36874pt>
+File: 2/249_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/249_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/249_ct18nn_q100_Sf_2.pdf  used on input line 471.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/249_ct18nn_q2_Sf_2.pdf, id=8815, 749.80125pt x 366.36874pt>
+File: 2/249_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/249_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/249_ct18nn_q2_Sf_2.pdf  used on input line 475.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [52 <./2/248_ct18nn_q100_Sf_2.pdf> <./2/248_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/248_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/250_ct18nn_q100_Sf_2.pdf, id=9003, 749.80125pt x 361.35pt>
+File: 2/250_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/250_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/250_ct18nn_q100_Sf_2.pdf  used on input line 480.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+<2/250_ct18nn_q2_Sf_2.pdf, id=9004, 749.80125pt x 361.35pt>
+File: 2/250_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/250_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/250_ct18nn_q2_Sf_2.pdf  used on input line 484.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+ [53 <./2/249_ct18nn_q100_Sf_2.pdf> <./2/249_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/249_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/253_ct18nn_q100_Sf_2.pdf, id=9192, 749.80125pt x 366.36874pt>
+File: 2/253_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/253_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/253_ct18nn_q100_Sf_2.pdf  used on input line 489.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/253_ct18nn_q2_Sf_2.pdf, id=9193, 749.80125pt x 366.36874pt>
+File: 2/253_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/253_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/253_ct18nn_q2_Sf_2.pdf  used on input line 493.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [54 <./2/250_ct18nn_q100_Sf_2.pdf> <./2/250_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/250_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/260_ct18nn_q100_Sf_2.pdf, id=9382, 749.80125pt x 358.33875pt>
+File: 2/260_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/260_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/260_ct18nn_q100_Sf_2.pdf  used on input line 498.
+(pdftex.def)             Requested size: 510.00684pt x 243.7382pt.
+<2/260_ct18nn_q2_Sf_2.pdf, id=9383, 749.80125pt x 358.33875pt>
+File: 2/260_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/260_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/260_ct18nn_q2_Sf_2.pdf  used on input line 502.
+(pdftex.def)             Requested size: 510.00684pt x 243.7382pt.
+ [55 <./2/253_ct18nn_q100_Sf_2.pdf> <./2/253_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/253_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/261_ct18nn_q100_Sf_2.pdf, id=9572, 749.80125pt x 366.36874pt>
+File: 2/261_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/261_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/261_ct18nn_q100_Sf_2.pdf  used on input line 507.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/261_ct18nn_q2_Sf_2.pdf, id=9573, 749.80125pt x 366.36874pt>
+File: 2/261_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/261_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/261_ct18nn_q2_Sf_2.pdf  used on input line 511.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [56 <./2/260_ct18nn_q100_Sf_2.pdf> <./2/260_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/260_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/266_ct18nn_q100_Sf_2.pdf, id=9761, 749.80125pt x 366.36874pt>
+File: 2/266_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/266_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/266_ct18nn_q100_Sf_2.pdf  used on input line 516.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/266_ct18nn_q2_Sf_2.pdf, id=9762, 749.80125pt x 366.36874pt>
+File: 2/266_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/266_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/266_ct18nn_q2_Sf_2.pdf  used on input line 520.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [57 <./2/261_ct18nn_q100_Sf_2.pdf> <./2/261_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/261_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/267_ct18nn_q100_Sf_2.pdf, id=9950, 749.80125pt x 366.36874pt>
+File: 2/267_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/267_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/267_ct18nn_q100_Sf_2.pdf  used on input line 525.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/267_ct18nn_q2_Sf_2.pdf, id=9951, 749.80125pt x 366.36874pt>
+File: 2/267_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/267_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/267_ct18nn_q2_Sf_2.pdf  used on input line 529.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [58 <./2/266_ct18nn_q100_Sf_2.pdf> <./2/266_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/266_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/268_ct18nn_q100_Sf_2.pdf, id=10140, 749.80125pt x 366.36874pt>
+File: 2/268_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/268_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/268_ct18nn_q100_Sf_2.pdf  used on input line 534.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/268_ct18nn_q2_Sf_2.pdf, id=10141, 749.80125pt x 366.36874pt>
+File: 2/268_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/268_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/268_ct18nn_q2_Sf_2.pdf  used on input line 538.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [59 <./2/267_ct18nn_q100_Sf_2.pdf> <./2/267_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/267_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/281_ct18nn_q100_Sf_2.pdf, id=10329, 749.80125pt x 366.36874pt>
+File: 2/281_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/281_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/281_ct18nn_q100_Sf_2.pdf  used on input line 543.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/281_ct18nn_q2_Sf_2.pdf, id=10330, 749.80125pt x 366.36874pt>
+File: 2/281_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/281_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/281_ct18nn_q2_Sf_2.pdf  used on input line 547.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [60 <./2/268_ct18nn_q100_Sf_2.pdf> <./2/268_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/268_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/504_ct18nn_q100_Sf_2.pdf, id=10518, 749.80125pt x 366.36874pt>
+File: 2/504_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/504_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/504_ct18nn_q100_Sf_2.pdf  used on input line 552.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/504_ct18nn_q2_Sf_2.pdf, id=10519, 749.80125pt x 366.36874pt>
+File: 2/504_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/504_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/504_ct18nn_q2_Sf_2.pdf  used on input line 556.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [61 <./2/281_ct18nn_q100_Sf_2.pdf> <./2/281_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/281_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/514_ct18nn_q100_Sf_2.pdf, id=10709, 749.80125pt x 366.36874pt>
+File: 2/514_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/514_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/514_ct18nn_q100_Sf_2.pdf  used on input line 561.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/514_ct18nn_q2_Sf_2.pdf, id=10710, 749.80125pt x 366.36874pt>
+File: 2/514_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/514_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/514_ct18nn_q2_Sf_2.pdf  used on input line 565.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [62 <./2/504_ct18nn_q100_Sf_2.pdf> <./2/504_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/504_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/542_ct18nn_q100_Sf_2.pdf, id=10898, 749.80125pt x 366.36874pt>
+File: 2/542_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/542_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/542_ct18nn_q100_Sf_2.pdf  used on input line 570.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/542_ct18nn_q2_Sf_2.pdf, id=10899, 749.80125pt x 366.36874pt>
+File: 2/542_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/542_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/542_ct18nn_q2_Sf_2.pdf  used on input line 574.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [63 <./2/514_ct18nn_q100_Sf_2.pdf> <./2/514_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/514_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/544_ct18nn_q100_Sf_2.pdf, id=11087, 749.80125pt x 366.36874pt>
+File: 2/544_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/544_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/544_ct18nn_q100_Sf_2.pdf  used on input line 579.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/544_ct18nn_q2_Sf_2.pdf, id=11088, 749.80125pt x 366.36874pt>
+File: 2/544_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/544_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/544_ct18nn_q2_Sf_2.pdf  used on input line 583.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [64 <./2/542_ct18nn_q100_Sf_2.pdf> <./2/542_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/542_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/545_ct18nn_q100_Sf_2.pdf, id=11276, 749.80125pt x 361.35pt>
+File: 2/545_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/545_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/545_ct18nn_q100_Sf_2.pdf  used on input line 588.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+<2/545_ct18nn_q2_Sf_2.pdf, id=11277, 749.80125pt x 361.35pt>
+File: 2/545_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/545_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/545_ct18nn_q2_Sf_2.pdf  used on input line 592.
+(pdftex.def)             Requested size: 510.00684pt x 245.78642pt.
+ [65 <./2/544_ct18nn_q100_Sf_2.pdf> <./2/544_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/544_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/573_ct18nn_q100_Sf_2.pdf, id=11466, 749.80125pt x 366.36874pt>
+File: 2/573_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/573_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/573_ct18nn_q100_Sf_2.pdf  used on input line 597.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/573_ct18nn_q2_Sf_2.pdf, id=11467, 749.80125pt x 366.36874pt>
+File: 2/573_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/573_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/573_ct18nn_q2_Sf_2.pdf  used on input line 601.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [66 <./2/545_ct18nn_q100_Sf_2.pdf> <./2/545_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/545_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/580_ct18nn_q100_Sf_2.pdf, id=11655, 749.80125pt x 366.36874pt>
+File: 2/580_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/580_ct18nn_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/580_ct18nn_q100_Sf_2.pdf  used on input line 606.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<2/580_ct18nn_q2_Sf_2.pdf, id=11656, 749.80125pt x 366.36874pt>
+File: 2/580_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/580_ct18nn_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/580_ct18nn_q2_Sf_2.pdf  used on input line 610.
+(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+ [67 <./2/573_ct18nn_q100_Sf_2.pdf> <./2/573_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/573_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/rat_ifl1_ct18nn_L2_q100_Sf_2.pdf, id=11845, 635.37375pt x 598.235pt>
+File: 2/rat_ifl1_ct18nn_L2_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl1_ct18nn_L2_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl1_ct18nn_L2_q100_Sf_2.pdf  used on input line
+ 615.
+(pdftex.def)             Requested size: 314.04077pt x 295.68451pt.
+<2/rat_ifl1_ct18nn_L2_q2_Sf_2.pdf, id=11846, 635.37375pt x 598.235pt>
+File: 2/rat_ifl1_ct18nn_L2_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl1_ct18nn_L2_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl1_ct18nn_L2_q2_Sf_2.pdf  used on input line 6
+19.
+(pdftex.def)             Requested size: 314.04077pt x 295.68451pt.
+ [68 <./2/580_ct18nn_q100_Sf_2.pdf> <./2/580_ct18nn_q2_Sf_2.pdf
+
+pdfTeX warning: latex (file ./2/580_ct18nn_q2_Sf_2.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]
+<2/rat_ifl2_ct18nn_L2_q100_Sf_2.pdf, id=12035, 649.42625pt x 598.235pt>
+File: 2/rat_ifl2_ct18nn_L2_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl2_ct18nn_L2_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl2_ct18nn_L2_q100_Sf_2.pdf  used on input line
+ 624.
+(pdftex.def)             Requested size: 320.98637pt x 295.68451pt.
+<2/rat_ifl2_ct18nn_L2_q2_Sf_2.pdf, id=12036, 649.42625pt x 598.235pt>
+File: 2/rat_ifl2_ct18nn_L2_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl2_ct18nn_L2_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl2_ct18nn_L2_q2_Sf_2.pdf  used on input line 6
+28.
+(pdftex.def)             Requested size: 320.98637pt x 295.68451pt.
+ [69 <./2/rat_ifl1_ct18nn_L2_q100_Sf_2.pdf> <./2/rat_ifl1_ct18nn_L2_q2_Sf_2.pdf
+
+
+pdfTeX warning: latex (file ./2/rat_ifl1_ct18nn_L2_q2_Sf_2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+<2/rat_ifl3_ct18nn_L2_q100_Sf_2.pdf, id=12218, 649.42625pt x 598.235pt>
+File: 2/rat_ifl3_ct18nn_L2_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl3_ct18nn_L2_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl3_ct18nn_L2_q100_Sf_2.pdf  used on input line
+ 633.
+(pdftex.def)             Requested size: 320.98637pt x 295.68451pt.
+<2/rat_ifl3_ct18nn_L2_q2_Sf_2.pdf, id=12219, 649.42625pt x 598.235pt>
+File: 2/rat_ifl3_ct18nn_L2_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl3_ct18nn_L2_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl3_ct18nn_L2_q2_Sf_2.pdf  used on input line 6
+37.
+(pdftex.def)             Requested size: 320.98637pt x 295.68451pt.
+ [70 <./2/rat_ifl2_ct18nn_L2_q100_Sf_2.pdf> <./2/rat_ifl2_ct18nn_L2_q2_Sf_2.pdf
+
+
+pdfTeX warning: latex (file ./2/rat_ifl2_ct18nn_L2_q2_Sf_2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+<2/rat_ifl4_ct18nn_L2_q100_Sf_2.pdf, id=12401, 630.355pt x 606.265pt>
+File: 2/rat_ifl4_ct18nn_L2_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl4_ct18nn_L2_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl4_ct18nn_L2_q100_Sf_2.pdf  used on input line
+ 642.
+(pdftex.def)             Requested size: 307.43388pt x 295.68481pt.
+<2/rat_ifl4_ct18nn_L2_q2_Sf_2.pdf, id=12402, 630.355pt x 606.265pt>
+File: 2/rat_ifl4_ct18nn_L2_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl4_ct18nn_L2_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl4_ct18nn_L2_q2_Sf_2.pdf  used on input line 6
+46.
+(pdftex.def)             Requested size: 307.43388pt x 295.68481pt.
+ [71 <./2/rat_ifl3_ct18nn_L2_q100_Sf_2.pdf> <./2/rat_ifl3_ct18nn_L2_q2_Sf_2.pdf
+
+
+pdfTeX warning: latex (file ./2/rat_ifl3_ct18nn_L2_q2_Sf_2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+<2/rat_ifl5_ct18nn_L2_q100_Sf_2.pdf, id=12556, 637.38126pt x 592.2125pt>
+File: 2/rat_ifl5_ct18nn_L2_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl5_ct18nn_L2_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl5_ct18nn_L2_q100_Sf_2.pdf  used on input line
+ 651.
+(pdftex.def)             Requested size: 318.24246pt x 295.68983pt.
+<2/rat_ifl5_ct18nn_L2_q2_Sf_2.pdf, id=12557, 630.355pt x 617.30624pt>
+File: 2/rat_ifl5_ct18nn_L2_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl5_ct18nn_L2_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl5_ct18nn_L2_q2_Sf_2.pdf  used on input line 6
+55.
+(pdftex.def)             Requested size: 301.94176pt x 295.69138pt.
+ [72 <./2/rat_ifl4_ct18nn_L2_q100_Sf_2.pdf> <./2/rat_ifl4_ct18nn_L2_q2_Sf_2.pdf
+
+
+pdfTeX warning: latex (file ./2/rat_ifl4_ct18nn_L2_q2_Sf_2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+<2/rat_ifl6_ct18nn_L2_q100_Sf_2.pdf, id=12737, 637.38126pt x 577.15625pt>
+File: 2/rat_ifl6_ct18nn_L2_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl6_ct18nn_L2_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl6_ct18nn_L2_q100_Sf_2.pdf  used on input line
+ 660.
+(pdftex.def)             Requested size: 326.54816pt x 295.6932pt.
+<2/rat_ifl6_ct18nn_L2_q2_Sf_2.pdf, id=12738, 630.355pt x 617.30624pt>
+File: 2/rat_ifl6_ct18nn_L2_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl6_ct18nn_L2_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl6_ct18nn_L2_q2_Sf_2.pdf  used on input line 6
+64.
+(pdftex.def)             Requested size: 301.94176pt x 295.69138pt.
+ [73 <./2/rat_ifl5_ct18nn_L2_q100_Sf_2.pdf> <./2/rat_ifl5_ct18nn_L2_q2_Sf_2.pdf
+
+
+pdfTeX warning: latex (file ./2/rat_ifl5_ct18nn_L2_q2_Sf_2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+<2/rat_ifl7_ct18nn_L2_q100_Sf_2.pdf, id=12920, 637.38126pt x 549.05125pt>
+File: 2/rat_ifl7_ct18nn_L2_q100_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl7_ct18nn_L2_q100_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl7_ct18nn_L2_q100_Sf_2.pdf  used on input line
+ 669.
+(pdftex.def)             Requested size: 343.25682pt x 295.68736pt.
+<2/rat_ifl7_ct18nn_L2_q2_Sf_2.pdf, id=12921, 637.38126pt x 544.0325pt>
+File: 2/rat_ifl7_ct18nn_L2_q2_Sf_2.pdf Graphic file (type pdf)
+<use 2/rat_ifl7_ct18nn_L2_q2_Sf_2.pdf>
+Package pdftex.def Info: 2/rat_ifl7_ct18nn_L2_q2_Sf_2.pdf  used on input line 6
+73.
+(pdftex.def)             Requested size: 346.42737pt x 295.69077pt.
+ [74 <./2/rat_ifl6_ct18nn_L2_q100_Sf_2.pdf> <./2/rat_ifl6_ct18nn_L2_q2_Sf_2.pdf
+
+
+pdfTeX warning: latex (file ./2/rat_ifl6_ct18nn_L2_q2_Sf_2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] [75 <./2/rat_ifl7_ct18nn_L2_q100_Sf_2.pdf> <./2/rat_ifl7_ct18nn_L2_q2_Sf_2.p
+df
+
+pdfTeX warning: latex (file ./2/rat_ifl7_ct18nn_L2_q2_Sf_2.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] (./quyre3901.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3739 strings out of 492617
+ 66601 string characters out of 6129508
+ 111640 words of memory out of 5000000
+ 7509 multiletter control sequences out of 15000+600000
+ 4889 words of font info for 18 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,5n,25p,276b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on quyre3901.pdf (75 pages, 8794253 bytes).
+PDF statistics:
+ 13298 PDF objects out of 15390 (max. 8388607)
+ 9098 compressed objects within 91 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 741 words of extra memory for PDF output out of 10000 (max. 10000000)
+
