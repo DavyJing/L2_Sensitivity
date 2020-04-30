@@ -1,0 +1,61 @@
+#!/bin/bash
+# Combine several PDF files into a single PDF file using LaTeX
+# Author: Pavel Nadolsky, April 1, 2020
+
+# If no arguments are given, simply print help on the script usage
+ [ -z "$1" ] &&  
+ {
+ echo 'pdfcat: combine several PDF files into a single PDF file using LaTeX'
+ echo 'Usage: pdfcat file1.pdf file2.pdf ...'
+ echo 'file1.pdf... file2.pdf -- input files'
+ echo 'The output is written into allfigs.pdf'
+ exit
+ };
+
+TEXBASE='quyre3901'
+TEXFILE=$TEXBASE'.tex'
+
+echo Preparing the LaTeX file
+echo '\documentclass[10pt,aps,prd,floatfix,titlepage]{revtex4}'  > $TEXFILE
+echo '\pdfoutput = 1'  >> $TEXFILE
+echo '\usepackage{graphicx}'  >> $TEXFILE
+echo '\usepackage{epsfig}'  >> $TEXFILE
+
+echo '\begin{document}' >> $TEXFILE
+echo '\title{Combined eps figures from '"$(pwd |sed 's/_/\\_/g')"'}' >> $TEXFILE
+echo '\date{\today}' >> $TEXFILE
+echo '\author{Pavel Nadolsky}' >> $TEXFILE
+echo '\affiliation{Department of Physics, Southern Methodist University, Dallas, TX 75275, USA}' >> $TEXFILE
+
+echo '\maketitle' >> $TEXFILE
+
+j=0;
+for i in $*; do
+if [[ "$i" != "allfigs.pdf" && "$i" != $TEXBASE".pdf" ]]; then 
+  echo '\begin{figure}' >> $TEXFILE
+  echo '\includegraphics[width=\textwidth,height=0.44\textheight,keepaspectratio]{'$i'}' >> $TEXFILE
+  echo '\caption{\protect{'"$(echo $i |sed 's/_/\\_/g')"'}}' >> $TEXFILE
+  echo '\end{figure}' >> $TEXFILE
+  [ $((j % 2)) -eq 1 ] && { echo '\clearpage' >> $TEXFILE; } 
+fi
+
+j=$(($j+1))
+done #for i
+
+echo '\end{document}' >> $TEXFILE
+
+echo Included $j PDF files
+
+echo Generating allfigs.pdf
+echo q |latex $TEXFILE >& /dev/null
+#dvipdf $TEXBASE'.dvi' >& /dev/null
+mv $TEXBASE'.pdf' allfigs.pdf
+
+
+echo allfigs.pdf is created:
+chmod a+r allfigs.pdf
+ls -l allfigs.pdf
+
+echo Cleaning up
+#rm $TEXBASE.*
+echo Done
