@@ -1,6 +1,6 @@
 import os
 
-filepath = '/Users/jingxiaoxian/Documents/GitHub/L2_Sensitivity/pk323c_eps/'
+filepath = '/Users/jingxiaoxian/Documents/GitHub/L2_Sensitivity/CJ15_eps/'
 cmd = 'mkdir ' + filepath + '5'
 os.system(cmd)
 exp_id_list = set()
@@ -13,12 +13,12 @@ for _ in [f for f in os.listdir(filepath+'1/')]:
 for exp_id in exp_id_list:
     exp_plot = []
     for _ in [f for f in os.listdir(filepath+'1/')]:
-        if _.startswith(exp_id+'_'):
+        if _.startswith(exp_id+'_') and '_q10_' not in _:
             exp_plot += [' '+_+' ']
             cmd = 'cp '+ filepath+  '1/' + _ + ' ./'
             os.system(cmd)
     for _ in [f for f in os.listdir(filepath+'2/')]:
-        if _.startswith(exp_id+'_'):
+        if _.startswith(exp_id+'_') and '_q10_' not in _:
             exp_plot += [' '+_+' ']
             cmd = 'cp '+ filepath+  '2/' + _ + ' ./'
             os.system(cmd)

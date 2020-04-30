@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2019.5.8)  29 APR 2020 20:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2019.5.8)  29 APR 2020 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -183,36 +183,36 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<266_ct18nn_L2_q2_Sf_1.pdf, id=1, 577.15625pt x 366.36874pt>
-File: 266_ct18nn_L2_q2_Sf_1.pdf Graphic file (type pdf)
-<use 266_ct18nn_L2_q2_Sf_1.pdf>
-Package pdftex.def Info: 266_ct18nn_L2_q2_Sf_1.pdf  used on input line 12.
-(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
-<266_ct18nn_L2_q100_Sf_1.pdf, id=2, 577.15625pt x 366.36874pt>
-File: 266_ct18nn_L2_q100_Sf_1.pdf Graphic file (type pdf)
-<use 266_ct18nn_L2_q100_Sf_1.pdf>
-Package pdftex.def Info: 266_ct18nn_L2_q100_Sf_1.pdf  used on input line 16.
-(pdftex.def)             Requested size: 465.82953pt x 295.70049pt.
+<18_CJ15nlo_L2_q2_Sf_1.pdf, id=1, 777.90625pt x 491.8375pt>
+File: 18_CJ15nlo_L2_q2_Sf_1.pdf Graphic file (type pdf)
+<use 18_CJ15nlo_L2_q2_Sf_1.pdf>
+Package pdftex.def Info: 18_CJ15nlo_L2_q2_Sf_1.pdf  used on input line 12.
+(pdftex.def)             Requested size: 467.6732pt x 295.69014pt.
+<18_CJ15nlo_L2_q100_Sf_1.pdf, id=2, 777.90625pt x 491.8375pt>
+File: 18_CJ15nlo_L2_q100_Sf_1.pdf Graphic file (type pdf)
+<use 18_CJ15nlo_L2_q100_Sf_1.pdf>
+Package pdftex.def Info: 18_CJ15nlo_L2_q100_Sf_1.pdf  used on input line 16.
+(pdftex.def)             Requested size: 467.6732pt x 295.69014pt.
 
 [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<266_ct18nn_q2_Sf_2.pdf, id=12, 749.80125pt x 366.36874pt>
-File: 266_ct18nn_q2_Sf_2.pdf Graphic file (type pdf)
-<use 266_ct18nn_q2_Sf_2.pdf>
-Package pdftex.def Info: 266_ct18nn_q2_Sf_2.pdf  used on input line 21.
-(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
-<266_ct18nn_q100_Sf_2.pdf, id=13, 749.80125pt x 366.36874pt>
-File: 266_ct18nn_q100_Sf_2.pdf Graphic file (type pdf)
-<use 266_ct18nn_q100_Sf_2.pdf>
-Package pdftex.def Info: 266_ct18nn_q100_Sf_2.pdf  used on input line 25.
-(pdftex.def)             Requested size: 510.00684pt x 249.20012pt.
+<18_CJ15nlo_q2_Sf_2.pdf, id=12, 951.555pt x 491.8375pt>
+File: 18_CJ15nlo_q2_Sf_2.pdf Graphic file (type pdf)
+<use 18_CJ15nlo_q2_Sf_2.pdf>
+Package pdftex.def Info: 18_CJ15nlo_q2_Sf_2.pdf  used on input line 21.
+(pdftex.def)             Requested size: 509.99889pt x 263.60701pt.
+<18_CJ15nlo_q100_Sf_2.pdf, id=13, 950.55125pt x 491.8375pt>
+File: 18_CJ15nlo_q100_Sf_2.pdf Graphic file (type pdf)
+<use 18_CJ15nlo_q100_Sf_2.pdf>
+Package pdftex.def Info: 18_CJ15nlo_q100_Sf_2.pdf  used on input line 25.
+(pdftex.def)             Requested size: 509.99757pt x 263.88469pt.
 
-[2 <./266_ct18nn_L2_q2_Sf_1.pdf> <./266_ct18nn_L2_q100_Sf_1.pdf
+[2 <./18_CJ15nlo_L2_q2_Sf_1.pdf> <./18_CJ15nlo_L2_q100_Sf_1.pdf
 
-pdfTeX warning: latex (file ./266_ct18nn_L2_q100_Sf_1.pdf): PDF inclusion: mult
+pdfTeX warning: latex (file ./18_CJ15nlo_L2_q100_Sf_1.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
->] [3 <./266_ct18nn_q2_Sf_2.pdf> <./266_ct18nn_q100_Sf_2.pdf
+>] [3 <./18_CJ15nlo_q2_Sf_2.pdf> <./18_CJ15nlo_q100_Sf_2.pdf
 
-pdfTeX warning: latex (file ./266_ct18nn_q100_Sf_2.pdf): PDF inclusion: multipl
+pdfTeX warning: latex (file ./18_CJ15nlo_q100_Sf_2.pdf): PDF inclusion: multipl
 e pdfs with page group included in a single page
 >] (./quyre3901.aux) ) 
 Here is how much of TeX's memory you used:
@@ -228,10 +228,10 @@ sfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmti9.pfb>
-Output written on quyre3901.pdf (3 pages, 288327 bytes).
+Output written on quyre3901.pdf (3 pages, 307142 bytes).
 PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
+ 430 PDF objects out of 1000 (max. 8388607)
+ 294 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
